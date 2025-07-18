@@ -229,7 +229,7 @@ const projects: Project[] = [
   },
   {
     tag: "Feb 2025",
-    src: "/assets/foodo.png",
+    src: "/assets/Foodo.png",
     title: "Foodo | Admin Dashboard for Food Delivery App",
     description:
       "Developed a full-featured admin dashboard for managing restaurants, menus, orders, and delivery status. Integrated role-based access for admins and delivery agents. Designed with React and Tailwind CSS for responsive performance.",
