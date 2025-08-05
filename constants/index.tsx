@@ -245,6 +245,23 @@ const projects: Project[] = [
     },
   },
   {
+    tag: "Jun 2025",
+    src: "/assets/work-orbit.png",
+    title: "FreeHub | Freelancing Platform for Clients & Developers",
+    description:
+      "Developed a full-stack freelancing platform where clients can post jobs and freelancers can bid, manage proposals, and complete projects. Implemented role-based access, real-time notifications, and a secure payment workflow.",
+    status: "done",
+    borderGradient: true,
+    leftButton: {
+      title: "Website",
+      href: "https://work-orbit.netlify.app/",
+    },
+    rightButton: {
+      title: "GitHub",
+      href: "#",
+    },
+  },
+  {
     tag: "Apr 2025",
     src: "/assets/docs.png",
     title: "Docs App",
@@ -259,23 +276,6 @@ const projects: Project[] = [
     rightButton: {
       title: "GitHub",
       href: "https://github.com/krishmungase/Google-Doc",
-    },
-  },
-  {
-    tag: "Jun 2025",
-    src: "/assets/freelance.png",
-    title: "FreeHub | Freelancing Platform for Clients & Developers",
-    description:
-      "Developed a full-stack freelancing platform where clients can post jobs and freelancers can bid, manage proposals, and complete projects. Implemented role-based access, real-time notifications, and a secure payment workflow.",
-    status: "pending",
-    borderGradient: true,
-    leftButton: {
-      title: "Website",
-      href: "https://work-orbit.netlify.app/",
-    },
-    rightButton: {
-      title: "GitHub",
-      href: "#",
     },
   },
   {
